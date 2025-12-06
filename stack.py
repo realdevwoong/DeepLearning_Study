@@ -1,6 +1,3 @@
-from networkx import is_empty
-
-
 class Stack:
   def __init__(self):
     self.item = []
