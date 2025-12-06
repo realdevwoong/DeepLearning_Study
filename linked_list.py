@@ -1,3 +1,4 @@
+# A simple implementation of a singly linked list in Pythonl  
 class Node:
     def __init__(self, data):
         self.data = data
